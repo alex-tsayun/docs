@@ -27,7 +27,7 @@
   },
   "tabs": [
     {
-      "name": "API Reference 1",
+      "name": "API Reference",
       "url": "api-reference"
     }
   ],
@@ -41,26 +41,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
+      "group": "API Documentation 1",
       "pages": [
         "api-reference/introduction"
       ]
