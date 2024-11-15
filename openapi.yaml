@@ -10,6 +10,8 @@ info:
   version: 2.1.0
 servers:
 - url: https://app.dev.draivn.com
+security:
+  - SecurityScheme: [] # use the
 tags:
 - name: Customers
   description: Provide API for customers
