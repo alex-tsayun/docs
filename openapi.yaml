@@ -11,14 +11,6 @@ email: [techsupport@draivn.com](mailto:techsupport@draivn.com)
 version: 2.1.0
 servers:
 \- url: [https://app.dev.draivn.com](https://app.dev.draivn.com)
-components:
-  securitySchemes:
-    bearerAuth: # arbitrary name for the security scheme
-      type: http
-      scheme: bearer
-      bearerFormat: JWT # optional, arbitrary value for documentation purposes
-security:
-  - bearerAuth: [] # use the same name as above
   tags:
   \- name: Customers
   description: Provide API for customers
