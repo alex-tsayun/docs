@@ -35,8 +35,8 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "openapi": "",
-      "url": "https://draivn.mintlify.app"
+      "openapi": "openapi.json",
+      "url": "api-reference"
     },
     {
       "name": "Community",
