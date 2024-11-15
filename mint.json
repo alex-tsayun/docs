@@ -37,16 +37,6 @@
       "icon": "book-open-cover",
       "openapi": "/api-reference/openapi-draivn.json",
       "url": "api-reference"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
@@ -73,14 +63,6 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
