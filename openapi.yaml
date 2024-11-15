@@ -8,6 +8,14 @@ info:
     url: https://draivn.com
     email: techsupport@draivn.com
   version: 2.1.0
+components:
+  securitySchemes:
+    bearerAuth: # arbitrary name for the security scheme
+      type: http
+      scheme: bearer
+      bearerFormat: JWT # optional, arbitrary value for documentation purposes
+security:
+- bearerAuth: [] # use the same name as above
 servers:
 - url: https://app.dev.draivn.com
 tags:
