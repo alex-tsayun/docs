@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Documentation 1",
+      "name": "API Reference",
       "icon": "book-open-cover",
       "openapi": "/openapi.yaml",
       "url": "api-reference"
