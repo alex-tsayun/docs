@@ -11,8 +11,6 @@ email: [techsupport@draivn.com](mailto:techsupport@draivn.com)
 version: 2.1.0
 servers:
 \- url: [https://app.dev.draivn.com](https://app.dev.draivn.com)
-security:
-- bearerAuth: [] # use the same name as above
 tags:
 \- name: Customers
 description: Provide API for customers
