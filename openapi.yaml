@@ -9,7 +9,7 @@ info:
     email: techsupport@draivn.com
   version: 2.1.0
 servers:
-- url: https://app.dev.draivn.com
+- url: https://app.draivn.com
 security:
   - SecurityScheme: [] # use the
 tags:
