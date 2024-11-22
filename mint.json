@@ -35,7 +35,7 @@
     {
       "name": "API Reference",
       "icon": "book-open-cover",
-      "openapi": "",
+      "openapi": "/openapi.yaml",
       "url": "api-reference"
     }
   ],
