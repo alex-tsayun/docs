@@ -8,3 +8,5 @@ info:
     url: https://draivn.com
     email: techsupport@draivn.com
   version: 2.1.0
+servers:
+- url: https://app.draivn.com
