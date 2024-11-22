@@ -33,7 +33,6 @@ tags:
   description: Provide API for extract daily files
 - name: Invites
   description: Provide API for fleet operator invites
-paths:
 components:
   schemas:
     Bucket:
